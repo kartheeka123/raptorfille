@@ -1,0 +1,12 @@
+@relation employee-weka.filters.unsupervised.attribute.Add-TDAT-Ndateofbirth-Clast-W1.0
+
+@attribute name {a,b,c}
+@attribute gender {male,female}
+@attribute experience numeric
+@attribute age numeric
+@attribute dateofbirth date 'yyyy-MM-dd\'T\'HH:mm:ss'
+
+@data
+a,male,12.8,25,?
+b,female,3,24,?
+c,male,2,20,?
